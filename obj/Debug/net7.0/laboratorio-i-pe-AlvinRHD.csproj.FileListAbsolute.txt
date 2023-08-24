@@ -1,0 +1,15 @@
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\bin\Debug\net7.0\laboratorio-i-pe-AlvinRHD.exe
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\bin\Debug\net7.0\laboratorio-i-pe-AlvinRHD.deps.json
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\bin\Debug\net7.0\laboratorio-i-pe-AlvinRHD.runtimeconfig.json
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\bin\Debug\net7.0\laboratorio-i-pe-AlvinRHD.dll
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\bin\Debug\net7.0\laboratorio-i-pe-AlvinRHD.pdb
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\obj\Debug\net7.0\laboratorio-i-pe-AlvinRHD.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\obj\Debug\net7.0\laboratorio-i-pe-AlvinRHD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\obj\Debug\net7.0\laboratorio-i-pe-AlvinRHD.AssemblyInfoInputs.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\obj\Debug\net7.0\laboratorio-i-pe-AlvinRHD.AssemblyInfo.cs
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\obj\Debug\net7.0\laboratorio-i-pe-AlvinRHD.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\obj\Debug\net7.0\laboratorio-i-pe-AlvinRHD.dll
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\obj\Debug\net7.0\refint\laboratorio-i-pe-AlvinRHD.dll
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\obj\Debug\net7.0\laboratorio-i-pe-AlvinRHD.pdb
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\obj\Debug\net7.0\laboratorio-i-pe-AlvinRHD.genruntimeconfig.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\lab1\laboratorio-i-pe-AlvinRHD\obj\Debug\net7.0\ref\laboratorio-i-pe-AlvinRHD.dll
